@@ -1,5 +1,5 @@
 {
 	"version": "legacy",
-	"commit" : "1.3.2",
-	"changelog": "Corrected a mistake resulting in loadouts not being loaded with players"
+	"commit" : "1.3.3",
+	"changelog": "\n- Improved multicharacter support and related bug-fix\n- MySQL.stores now store full queries for saving, selecting, and inserting characters\n- DeleteVehicle no longer has a default radius of 4"
 }
